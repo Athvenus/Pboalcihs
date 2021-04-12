@@ -1,4 +1,4 @@
 # Pboalcihs
 Polis of Bach
 
-1.sorting hat
+1. sorting hat
